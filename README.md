@@ -1,6 +1,6 @@
 # Orcish AI Next.js Framework
 
-![orcish-ai-nextjs-framework](https://github.com/TheOrcDev/orcish-ai-nextjs-framework/assets/7549148/81f0102f-c201-4bbe-92e3-cc8012da9aca)
+![orcish-ai-nextjs-framework](https://github.com/Minator0330/minator-ai-next-project.js/assets/7549148/81f0102f-c201-4bbe-92e3-cc8012da9aca)
 
 ## Overview
 
