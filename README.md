@@ -1,7 +1,5 @@
 # Orcish AI Next.js Framework
 
-![orcish-ai-nextjs-framework](https://github.com/Minato0330/minator-ai-next-project.js/public/orcish-ai-nextjs-framework.png)
-
 ## Overview
 
 The Orcish AI Next.js Framework is a powerful tool that leverages the capabilities of OpenAI API, OpenAI's advanced language models, to integrate AI functionalities seamlessly into your Next.js applications. With this framework, you can easily harness the power of AI to generate text, images, and text to speech based on your specified input.
