@@ -1,4 +1,4 @@
-# Orcish AI Next.js Framework
+# Minato AI Next.js Framework
 
 ## Overview
 
